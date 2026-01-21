@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.outerdiv {
+  margin-top: 1rem;
+  display: flex;
+  gap: 10px;
+}
+
+.mainDiv {
+  border: 2px solid goldenrod;
+  border-radius: 10px;
+  /* padding: 10px; */
+}
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+
+.description {
+  padding: 0.8rem;
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.price {
+  background-color: gold;
+  color: black;
+  padding: 0.5rem;
+}
+
+.img {
+  width: 200px;
+}
