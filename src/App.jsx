@@ -5,9 +5,8 @@ import Product from "./Product.jsx";
 function App() {
   return (
     <div>
-      {/* <Title /> */}
       <Product />
-      <Product />
+      <Title />
     </div>
   );
 }
