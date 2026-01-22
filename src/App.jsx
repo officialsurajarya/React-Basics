@@ -7,11 +7,10 @@ import AmzProdts from "./AmzProdts.jsx";
 function App() {
   return (
     <div>
-      {/* <MsgBox userName="Suraj Arya" textColor="yellow" />
+      <MsgBox userName="Suraj Arya" textColor="yellow" />
       <MsgBox userName="Surya" textColor="red " />
       <Product />
       <Title />
-      */}
 
       <AmzProdts />
     </div>
