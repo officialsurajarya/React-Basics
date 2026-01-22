@@ -5,7 +5,7 @@ export default function AmzProdts() {
   return (
     <>
       <h3>Blockbuster Deals on Computer Accessories | Shop Now</h3>
-      <div className="outerdiv">
+      <div className="outerdiv ">
         <AmzProd
           title="Logitech MX Master 3S"
           desc={["8,000 DPI", "5 Programmable Buttons"]}
